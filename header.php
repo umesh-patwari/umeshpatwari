@@ -79,7 +79,7 @@
                     wp_nav_menu(array(
                         'theme_location' => 'main-menu',
                         'menu_id' => 'menu-main-menu',
-                        'menu_class' => 'nav',
+                        'menu_class' => 'site-menu main-menu js-clone-nav ml-auto d-none d-lg-block',
                     ));
                 ?>
 
