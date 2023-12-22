@@ -24,7 +24,10 @@
       </div>
 
 
-      <div class="top-bar">
+      
+
+      <header class="site-navbar js-sticky-header site-navbar-target" role="banner">
+        <div class="top-bar">
         <div class="container">
           <div class="row">
             <div class="col-12">
@@ -56,9 +59,6 @@
 
         </div>
       </div>
-
-      <header class="site-navbar js-sticky-header site-navbar-target" role="banner">
-
         <div class="container">
           <div class="row align-items-center position-relative">
 
